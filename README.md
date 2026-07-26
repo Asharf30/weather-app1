@@ -8,7 +8,7 @@ A simple web app that shows daily prayer times in a clean and fast interface.
 - Select your city/country if the UI provides a selector.
 - View today's prayer times instantly.
 
-Live link: https://prayer-app-ashraf.netlify.app/
+Live link: https://prayer-times-ashraf.vercel.app/
 
 ## Project Structure
 
